@@ -1,6 +1,6 @@
 class config:
     BOT_TOKEN = "6142796859:AAHJGvbQBOz1WJr1xGN0C01Y10qp0YjDiX4"
-    APP_ID = "941300567"
+    APP_ID = "15122558"
     API_HASH = "43042882a789e5c2e8526d2da740b9c1"
     DATABASE_URL = ""
     SUDO_USERS = "941300567" # Sepearted by space.
