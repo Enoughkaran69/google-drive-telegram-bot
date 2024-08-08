@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "6142796859:AAHJGvbQBOz1WJr1xGN0C01Y10qp0YjDiX4"
     APP_ID = "15122558"
     API_HASH = "43042882a789e5c2e8526d2da740b9c1"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgresql://abcd_wyji_user:zQW0YYYZw9Y5RmQtTZghYUTX3HihwfJB@dpg-cqqe5daj1k6c73dgjl30-a.oregon-postgres.render.com/abcd_wyji"
     SUDO_USERS = "941300567" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
